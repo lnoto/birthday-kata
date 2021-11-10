@@ -6,8 +6,8 @@ You can use [gradle](https://gradle.org/) or [maven](https://maven.apache.org/)
 
 ## Setup
 
-    git clone https://github.com/swkBerlin/kata-bootstraps
-    cd java/mockito
+    git clone https://github.com/lnoto/birthday-kata
+    cd birthday-kata
 
 Open as preexisting project in your favorite IDE and choose between gradle or maven nature
 
